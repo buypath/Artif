@@ -69,20 +69,40 @@ export ANTHROPIC_API_KEY="your-api-key-here"
 
 ## Quick Start
 
-### Using the CLI
+### Option 1: Web UI (Recommended) 🌐
 
 ```bash
 # 1. Set up environment
 cp .env.example .env
 # Edit .env and add your ANTHROPIC_API_KEY
 
-# 2. Run the complete pipeline
+# 2. Start the web application
+./start_app.sh
+# Or: streamlit run app.py
+```
+
+Access the application at `http://localhost:8501`
+
+**Features:**
+- 📁 Drag-and-drop file upload
+- ⚡ Real-time processing status
+- 👁️ Preview prompts before running
+- 💾 Download results in multiple formats
+- 🎯 Auto-population or full customization
+- 📊 Visual results display
+
+See [WEB_UI_GUIDE.md](WEB_UI_GUIDE.md) for detailed web UI instructions.
+
+### Option 2: Command Line Interface
+
+```bash
+# Run the complete pipeline
 python cli.py full \
   --stage1-config examples/sample_stage1_input.json \
   --stage2-config examples/sample_stage2_input.json
 ```
 
-### Using Python API
+### Option 3: Python API
 
 ```python
 from src.main import DocumentProcessor
