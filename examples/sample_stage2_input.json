@@ -1,0 +1,21 @@
+{
+  "rewrite_params": {
+    "article_topic": "Artificial Intelligence in Modern Business",
+    "primary_keyword": "AI business transformation",
+    "title": "How Artificial Intelligence is Transforming Modern Business Operations",
+    "word_count": "2000",
+    "num_lists": "4",
+    "audience": "Business executives and technology decision-makers",
+    "nouns_list": "automation, efficiency, innovation, transformation, technology, data, analytics, insights, decision-making, optimization",
+    "verbs_list": "transform, optimize, enhance, automate, analyze, improve, integrate, implement, leverage, drive",
+    "adjectives_list": "intelligent, automated, efficient, innovative, data-driven, strategic, scalable, cutting-edge, transformative, advanced",
+    "subject_object_predicates": "AI transforms business operations, Machine learning drives insights, Automation enhances efficiency, Data analytics optimizes decision-making",
+    "search_considerations": "How does AI transform business?, What are AI business benefits?, AI implementation strategies, Business automation solutions, AI ROI for enterprises",
+    "attributes": "cost-effective, scalable, user-friendly, enterprise-grade, cloud-based, real-time",
+    "characteristics": "comprehensive coverage, practical examples, actionable insights, data-backed claims",
+    "keyword_frequency": "AI business transformation: 6-8 times, machine learning: 4-5 times, automation: 4-5 times, business intelligence: 3-4 times, digital transformation: 3-4 times",
+    "section_terms": "Introduction to AI in Business, Key Benefits and ROI, Implementation Strategies, Industry Use Cases, Future Trends and Opportunities",
+    "lsi_terms": "machine learning, deep learning, neural networks, predictive analytics, natural language processing, computer vision, robotic process automation"
+  },
+  "additional_instructions": "Include real-world case studies and specific metrics where possible. Maintain a professional yet accessible tone. End with actionable recommendations for businesses considering AI adoption."
+}

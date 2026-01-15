@@ -1,0 +1,8 @@
+{
+  "document_paths": [
+    "path/to/document1.docx",
+    "path/to/document2.docx",
+    "path/to/document3.docx"
+  ],
+  "analysis_instruction": "Analyze these articles about artificial intelligence and machine learning. Focus on identifying key concepts, technologies, and industry applications. Extract semantic themes that would be suitable for a comprehensive blog post targeting technical professionals."
+}
