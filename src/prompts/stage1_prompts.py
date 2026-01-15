@@ -62,34 +62,34 @@ Provide a consolidated summary of all documents organized by the identified them
 Please structure your response as a JSON object with the following format:
 
 ```json
-{
+{{
     "themes": [
-        {
+        {{
             "name": "Theme Name",
             "description": "Brief description",
             "key_points": ["point 1", "point 2"],
             "related_documents": ["doc1", "doc2"]
-        }
+        }}
     ],
     "keywords": ["keyword1", "keyword2", "keyword3", "keyword4", "keyword5"],
-    "nlp_entities": {
+    "nlp_entities": {{
         "nouns": ["noun1", "noun2", ...],
         "verbs": ["verb1", "verb2", ...],
         "adjectives": ["adj1", "adj2", ...]
-    },
-    "semantic_analysis": {
+    }},
+    "semantic_analysis": {{
         "subject_object_predicates": ["pattern1", "pattern2", ...],
         "search_considerations": ["question1", "problem1", ...],
         "attributes": ["attribute1", "attribute2", ...],
         "characteristics": ["char1", "char2", ...]
-    },
+    }},
     "target_audience": "Description of target audience",
     "consolidated_content": "Themed and organized content summary...",
-    "content_outline": {
+    "content_outline": {{
         "main_topic": "Overall topic",
         "subtopics": ["subtopic1", "subtopic2", ...]
-    }
-}
+    }}
+}}
 ```
 
 Provide comprehensive analysis while maintaining accuracy and relevance to the source documents.
